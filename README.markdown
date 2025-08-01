@@ -1,12 +1,21 @@
 # MORSE: Model Optimization Tools for Remote Sensing Data Analysis
 
-MORSE (Model Optimization tools for Remote Sensing Data Analysis) is a Python-based framework for optimizing machine learning models for multi-modal remote sensing data. It leverages "Optuna" for hyperparameter optimization, SHAP for feature importance, and various ML models for EO applications. Additionally, it supports feature selection using Optuna's TPESampler.
+MORSE (Model Optimization tools for Remote Sensing Data Analysis) is a Python-based framework for optimizing machine learning models for multi-modal remote sensing data. It leverages "Optuna" for hyperparameter optimization, SHAP for feature importance and explainability, and various ML models for EO applications. Additionally, it supports feature selection using TPESampler.
+
+A few appplications of this framework at showcased in the following publications -
+1. https://doi.org/10.1109/whispers65427.2024.10876480
+2. https://doi.org/10.13140/RG.2.2.25599.73123
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naikp13/GIMMEO/main/imgs/morse_fig1.png" alt="Model Architecture" width="400"/>
+  <img src="https://raw.githubusercontent.com/naikp13/GIMMEO/main/imgs/morse_fig2.png" alt="Model Architecture 2" width="400"/>
+</p>
 
 ## Features
 
 - Data preprocessing for remote sensing data and stack objects.
-- Multi-objective optimization using Optuna's NSGA-III sampler for ML models.
-- Band ratio-based feature selection using Optuna's TPESampler.
+- Multi-objective optimization using NSGA-III sampler (Genetic Optimization) for ML models.
+- Dynamic Feature selection using TPESampler (Bayesian Optimization).
 - Visualization of predicted maps and spectral plots.
 
 ## Installation
