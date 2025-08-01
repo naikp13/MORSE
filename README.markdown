@@ -7,8 +7,8 @@ A few appplications of this framework at showcased in the following publications
 2. https://doi.org/10.13140/RG.2.2.25599.73123
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naikp13/GIMMEO/main/imgs/morse_fig1.png" alt="Model Architecture" width="400"/>
-  <img src="https://raw.githubusercontent.com/naikp13/GIMMEO/main/imgs/morse_fig2.png" alt="Model Architecture 2" width="400"/>
+  <img src="https://raw.githubusercontent.com/naikp13/MORSE/main/imgs/morse_fig1.png" alt="pareto-front" width="400"/>
+  <img src="https://raw.githubusercontent.com/naikp13/MORSE/main/imgs/morse_fig2.png" alt="parento optimal solution" width="400"/>
 </p>
 
 ## Features
