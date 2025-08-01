@@ -1,0 +1,2 @@
+# MORSE: Model Optimization tools for Remote Sensing Data Analysis
+# This package contains modules for preprocessing, ML optimization algorithms, Feature engineering, Feature selection and visualization.

@@ -1,0 +1,1 @@
+numpy&gt;=1.21.0 optuna&gt;=3.0.0 scikit-learn&gt;=1.0.0 shap&gt;=0.40.0 hylite&gt;=1.31 rasterio&gt;=1.2.0 matplotlib&gt;=3.4.0 scikit-image&gt;=0.18.0 joblib&gt;=1.0.0 cupy-cuda11x&gt;=10.0.0; scipy&gt;=1.7.0
