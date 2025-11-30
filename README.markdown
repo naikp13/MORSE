@@ -53,6 +53,14 @@ A few appplications of this framework at showcased in the following publications
 - `src/`: Source code for preprocessing, optimization, training, visualization, and feature selection.
 - `data/`: Store your  data here .
 - `results/`: Output directory for models, predictions, and visualizations.
+- 
+## Cite this work
+
+Please cite this article in case this method was helpful for your research or used for your work,
+
+```Citation
+Naik, P., Chakraborty, R., Thiele, S., Kirsch, M., & Gloaguen, R. (2024). Multi-Objective Optimization Based Hyperspectral Feature Engineering for Spectral Abundance Mapping. In 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) (pp. 1–5). 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE. https://doi.org/10.1109/whispers65427.2024.10876480
+```
 
 ## License
 
